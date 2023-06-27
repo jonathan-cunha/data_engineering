@@ -1,1 +1,1 @@
-pyspark==2.4.7
+pyspark==3.4.0
